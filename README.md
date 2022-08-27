@@ -1,4 +1,4 @@
-![Preguntados banner](img/Preguntados img.jpg)
+![Preguntados banner](Preguntados img.jpg)
 Yudymar Fernandes
 
 # :rocket: Ejercicio integrador: Curso Python Inicial
