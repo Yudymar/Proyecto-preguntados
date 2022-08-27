@@ -3,7 +3,7 @@ Yudymar Fernandes
 
 # :rocket: Ejercicio integrador: Curso Python Inicial
 
-Es un juego estilo trivia, con preguntas por categorias de seleccion multiple, para dos juagdores.
+Es un juego estilo trivia, con preguntas por categorias de seleccion multiple, para dos jugadores.
 Utilicé funciones, acceso a archivo csv y operadores.
 
 ### Archivos relevantes dentro del repositorio
