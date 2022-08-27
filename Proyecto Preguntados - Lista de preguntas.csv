@@ -1,0 +1,31 @@
+id;nro.categoria;categoria;pregunta;a;b;c;d;respuesta;dificultad
+1;1;ARTE Y LITERATURA;¿Cuántos cuadros vendió Van Gogh en toda su vida?;3;54;1;238;c;NORMAL
+2;1;ARTE Y LITERATURA;¿Qué artista pinto el techo de la Capilla Sixtina en Roma?;Picasso;Salvador Dalí;Claude Monet;Miguel Ángel;d;FACIL
+3;1;ARTE Y LITERATURA;¿Quién escribió la Ilíada y la Odisea?;Cervantes;Homero;Shakerpeare;Paulo Coelho;b;FACIL
+4;1;ARTE Y LITERATURA;¿Qué nombre tenía el caballo de Don Quijote de la Mancha?;Tornado;Spirit;Rocinante;Galopante;c;FACIL
+5;1;ARTE Y LITERATURA;¿Cómo se llama el pintor noruego autor de la obra “El Grito”?;Edvard Munch;Van Gogh;Diego Velázquez;Francisco de Goya;a;DIFICIL
+6;2;HISTORIA;¿Cuánto duró la Guerra de los Cien Años?;116;68;100;132;a;NORMAL
+7;2;HISTORIA;¿En qué año el hombre pisó la Luna por primera vez?;2020;1928;1945;1962;d;NORMAL
+8;2;HISTORIA;¿Quiénes fueron (según la leyenda) los dos hermanos fundadores de la ciudad de Roma?;Pedro y Carlos;Marco y Aurelio;Romulo y Remo;Augusto y Polo;c;FACIL
+9;2;HISTORIA;¿Qué moneda se usaba en España antes de la llegada del euro?;Dólar;Peseta;Austral;Yuan;b;NORMAL
+10;2;HISTORIA;¿Cuándo cayó el muro de Berlín?;1990;2001;1974;1989;d;DIFICIL
+11;3;DEPORTES;¿Qué conductor de la Formula 1 ha ganado más campeonatos?;Fernando Alonso;Michael Schumacher;Felipe Massa;Jenson Button;b;FACIL
+12;3;DEPORTES;¿Qué equipo de fútbol se le conoce como ‘The Red Devils’?;Manchester United;Barcelona;River;Real Madrid;a;NORMAL
+13;3;DEPORTES;¿Dónde se celebraron los primeros Juegos Olímpicos modernos? (1896);New York;Roma;Atenas;Londres;c;NORMAL
+14;3;DEPORTES;¿Cuándo se celebró la primera Copa Mundial de Fútbol?;1922;1984;1975;1930;d;DIFICIL
+15;3;DEPORTES;¿En qué ciudad nació el futbolista Lionel Messi?;Rosario;Salta;Caballito;Santa Fe;a;NORMAL
+16;4;GEOGRAFIA;¿Cuál es el monte más alto del mundo?;Everest;Elbrús;Fuji;Denali;a;FACIL
+17;4;GEOGRAFIA;¿Cuál es el país de mayor tamaño del mundo?;España;Francia;Rusia;Uruguay;c;NORMAL
+18;4;GEOGRAFIA;¿Cuál es la ciudad más poblada de África?;Nairobi;Lagos;Kinsasa;Luanda;b;NORMAL
+19;4;GEOGRAFIA;¿Cuál es la capital de Filipinas?;Cebú;Davao;Manila;Coron;c;NORMAL
+20;4;GEOGRAFIA;¿Cuál es el país más pequeño del mundo? ;El Vaticano;Nicaragua;Irlanda;China;a;DIFICIL
+21;5;ENTRETENIMIENTO;¿Quién fue el famoso cantante del grupo musical Queen?;Axl Rose;Freddie Mercury;Kurt Cobain;Anthony Kiedis;b;FACIL
+22;5;ENTRETENIMIENTO;¿Por qué película superventas de los años 90 es conocido el director y productor James Cameron?;Titanic;Grease;El exorcista;Duro de matar;a;FACIL
+23;5;ENTRETENIMIENTO;¿Qué es lo más importante para Toretto de Rapido y Furiosos?;Su auto;Brian;Su pelo;La familia;d;FACIL
+24;5;ENTRETENIMIENTO;¿De qué ciudad son originarios los Beatles?;Liverpool;Madrid;Edimburgo;Cambridge;a;DIFICIL
+25;5;ENTRETENIMIENTO;¿Cuál fue la primer película de Disney?;La sirenita;Pinocho;Blanca Nieves;La Bella y la Bestia;c;NORMAL
+26;6;CIENCIAS Y NATURALEZA;¿Cuál es el nombre técnico del miedo o fobia a las alturas?;Alturafobia;Larofobia;Superfobia;Acrofobia;d;DIFICIL
+27;6;CIENCIAS Y NATURALEZA;¿Cómo se llama la ciencia que estudia la sangre?;Hematología;Oncología;Odontología;Dermatología;a;NORMAL
+28;6;CIENCIAS Y NATURALEZA;¿Cómo se llaman las células nerviosas?;Fibroblastos;Osteoblastos;Neuronas;Leucocitos;c;NORMAL
+29;6;CIENCIAS Y NATURALEZA;¿Cuál es el planeta más pequeño de nuestro sistema solar?;Venus;Mercurio;Tierra;Jupiter;b;NORMAL
+30;6;CIENCIAS Y NATURALEZA;¿Cómo se llaman los animales que solo comen plantas?;Carnivoros;Omnivoros;Herbivoros;Vegetarianos;c;FACIL
